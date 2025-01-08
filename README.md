@@ -29,10 +29,10 @@ https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/JSON
 ## How it works
 I reverse engineered the way Migaku gives stars to each word in a frequency list. Heres how it does it:
 
-1st - 1500th element: 5 stars
-1501st - 5000th: 4 stars 
-5001st - 15000th: 3 stars
-15001st - 30000th: 2 stars
-30001st+: 1 star
+- 1st - 1500th element: 5 stars
+- 1501st - 5000th: 4 stars 
+- 5001st - 15000th: 3 stars
+- 15001st - 30000th: 2 stars
+- 30001st+: 1 star
 
 There are a lot of empty elements in the list to make up the space between each level. The source I used had 705 words for JLPT 5, so I added 795 empty elements to make it to the start of JLPT4 and so on.
