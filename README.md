@@ -27,7 +27,7 @@ https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/JSON
 ![image](https://github.com/user-attachments/assets/cd552a08-3c1b-4953-be1d-589c6758522c)
 
 ## How it works
-I reverse engineered the way Migaku gives stars to each word in a frequency list. Heres how it does it:
+I reverse engineered (which apparently wasn't necessary as it was already detailed in the Migaku Discord server ☺) the way Migaku gives stars to each word in a frequency list. Heres how it does it:
 
 - 1st - 1500th element: 5 stars
 - 1501st - 5000th: 4 stars 
