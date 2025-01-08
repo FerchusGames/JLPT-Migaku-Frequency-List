@@ -1,6 +1,10 @@
 # JLPT-Migaku-Frequency-List
 A JLPT frequency list compatible with the new Migaku extension sourced from [stephenmk's meta dictionary for Yomitan](https://github.com/stephenmk/yomitan-jlpt-vocab).
 
+## Installation
+Go to the following link and follow the instructions:
+https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/JSON
+
 ## Demostration
 ### N5
 ![image](https://github.com/user-attachments/assets/e04f8dfe-8a20-45df-8082-e7b6e97b39cc)
