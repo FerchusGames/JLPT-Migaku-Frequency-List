@@ -2,8 +2,13 @@
 A JLPT frequency list compatible with the new Migaku extension sourced from [stephenmk's meta dictionary for Yomitan](https://github.com/stephenmk/yomitan-jlpt-vocab).
 
 ## Installation
-Go to the following link and follow the instructions:
-https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/JSON
+This frequency list is available in two versions. Click the hyperlink below that best matches your needs:
+
+### [Frequency List Only](https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/frequency-list-only)
+Choose this version if you only want to view the JLPT levels for each word.
+
+### [With Recommended Sentences](https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/with-recommended-sentences)
+Choose this version if you also want to mine JLPT vocab sentences with Migaku's "Recommended Sentences" feature.
 
 ## Demostration
 ### N5
@@ -27,7 +32,7 @@ https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/JSON
 ![image](https://github.com/user-attachments/assets/cd552a08-3c1b-4953-be1d-589c6758522c)
 
 ## How it works
-I reverse engineered (which apparently wasn't necessary as it was already detailed in the Migaku Discord server ☺) the way Migaku gives stars to each word in a frequency list. Heres how it does it:
+Migaku gives stars to each word in a frequency list based on their position:
 
 - 1st - 1500th element: 5 stars
 - 1501st - 5000th: 4 stars 
