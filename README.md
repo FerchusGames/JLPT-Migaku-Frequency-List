@@ -1,6 +1,10 @@
 # JLPT-Migaku-Frequency-List
 A JLPT frequency list compatible with the new Migaku extension sourced from [stephenmk's meta dictionary for Yomitan](https://github.com/stephenmk/yomitan-jlpt-vocab).
 
+## Works great with
+### [JLPT-Migaku-Progress-Tracker](https://github.com/FerchusGames/JLPT-Migaku-Progress-Tracker) 
+JLPT progress tracker for Migaku users. Visualizes known, learning, and unknown words from Migaku word list exports with charts and clipboard integration. 
+
 ## Installation
 This frequency list is available in two versions. Click the hyperlink below that best matches your needs:
 
