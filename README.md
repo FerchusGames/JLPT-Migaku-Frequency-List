@@ -8,7 +8,7 @@ This frequency list is available in two versions. Click the hyperlink below that
 Choose this version if you only want to view the JLPT levels for each word.
 
 ### [With Recommended Sentences](https://github.com/FerchusGames/JLPT-Migaku-Frequency-List/releases/tag/with-recommended-sentences)
-Choose this version if you also want to mine JLPT vocab sentences with Migaku's "Recommended Sentences" feature.
+Choose this version if you also want to mine JLPT vocab sentences with Migaku's "Recommended Sentences" feature to prepare for an exam.
 
 ## Demostration
 ### N5
